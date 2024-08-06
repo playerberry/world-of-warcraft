@@ -6,14 +6,11 @@
 - Elvui
 - Elvui Location Plus
 - MinimapButtonButton
-- Postal
 - SharedMedia
 
 # Default (Chill)
 
-- Bags: BoE
 - Can I Mog It?
-- idTip
 
 # Mythic Plus
 
@@ -31,12 +28,15 @@
 
 # Banking
 
+- Postal
 - Accountant
-- TradeSkillMaster
 
 # Gold Farm
 
 - LootAppraiser
+- Bags: BoE
+- idTip
+- TradeSkillMaster
 
 # Mist of Pandaria: Remix
 
