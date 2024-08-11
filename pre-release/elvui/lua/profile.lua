@@ -731,7 +731,7 @@
                 ["enable"] = true,
             },
         },
-        ["version"] = "3.48",
+        ["version"] = "3.50",
     },
     ["movers"] = {
         ["AddonCompartmentMover"] = "RIGHT,ElvUI_MinimapHolder,RIGHT,-6,10",
@@ -753,7 +753,7 @@
         ["ElvAB_2"] = "BOTTOM,UIParent,BOTTOM,0,4",
         ["ElvAB_3"] = "BOTTOM,UIParent,BOTTOM,246,4",
         ["ElvAB_4"] = "BOTTOM,UIParent,BOTTOM,0,4",
-        ["ElvAB_5"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,431,52",
+        ["ElvAB_5"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,431,50",
         ["ElvAB_6"] = "TOPRIGHT,UIParent,TOPRIGHT,-549,-397",
         ["ElvAB_7"] = "BOTTOM,UIParent,BOTTOM,31,467",
         ["ElvUF_AssistMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,128,-400",
